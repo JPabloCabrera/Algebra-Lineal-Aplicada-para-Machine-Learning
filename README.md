@@ -1,4 +1,4 @@
-# Proyecto de Álgebra Lineal Aplicada para Machine Learning
+# Álgebra Lineal Aplicada para Machine Learning
 
 Este proyecto fue desarrollado como parte del Curso de Álgebra Lineal Aplicada para Machine Learning de la Escuela de Platzi, impartido por el instructor Sebastián Sosa. El proyecto fue creado por José Pablo Cabrera Romo, un Ingeniero Mecánico con una creciente pasión por la Ciencia de Datos y la Inteligencia Artificial.
 
